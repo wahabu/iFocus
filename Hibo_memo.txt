@@ -1,2 +1,22 @@
 This is a memo for any important notes about the Git and what I have learned about this platform.
 Either about some commands or how to use the platform interface in the Github.
+
+# Delete GitHub repository
+1. Click on your projile picture at the top right corner of the GitHub interface and click on "Your repositories".
+2. On your repository list, select the GitHub repository that you want to delete.
+3. On the repository page, click on "Settings" in the menu.
+4. In the repository settings, scroll down until you see the "Danger zone".
+5. In the "danger zone", click on "Delete this repository".
+6. To confirm the GitHub repository deletion, you have to type the repository name. When you are done, simply click on "I understand the consequences,
+   delete this repository".
+7. Congratulations, you have successfully deleted your GitHub repository!
+
+# Adding Collaborators
+- Go to navigate to the main page of the repository.
+1. Under your repository name, click Settings.
+2. In the "Access" section of the sidebar, click Collaborators & teams.
+3. Click Invite a collaborator.
+4. In the search field, start typing the name of person you want to invite, then click a name in the list of matches.
+5. Click Add NAME to REPOSITORY.
+6. The user will receive an email inviting them to the repository. Once they accept your invitation, they will have collaborator access to your
+   repository.
