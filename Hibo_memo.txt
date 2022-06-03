@@ -1,6 +1,28 @@
 This is a memo for any important notes about the Git and what I have learned about this platform.
 Either about some commands or how to use the platform interface in the Github.
 
+# Creating a new repository
+01. In the upper-right corner of any page, use the + drop-down menu, and select New repository.
+02. Optionally, to create a repository with the directory structure and files of an existing repository, use the Choose a template drop-down and select
+   a template repository. You'll see template repositories that are owned by you and organizations you're a member of or that you've used before.
+03. Optionally, if you chose to use a template, to include the directory structure and files from all branches in the template, and not just the default
+   branch, select Include all branches. 
+04. In the Owner drop-down, select the account you wish to create the repository on.
+05. Type a name for your repository, and an optional description.
+06. Choose a repository visibility. For more information.
+07. If you're not using a template, there are a number of optional items you can pre-populate your repository with. If you're importing an existing
+   repository to GitHub, don't choose any of these options, as you may introduce a merge conflict. You can add or create new files using the user
+   interface or choose to add new files using the command line later. For more information, see "Importing a Git repository using the command line,"
+   "Adding a file to a repository," and "Addressing merge conflicts."
+      You can create a README, which is a document describing your project. For more information, see "About READMEs."
+      You can create a .gitignore file, which is a set of ignore rules. For more information, see "Ignoring files."
+      You can choose to add a software license for your project. For more information, see "Licensing a repository."
+08. Optionally, if the personal account or organization in which you're creating uses any GitHub Apps from GitHub Marketplace, select any apps you'd
+    like to use in the repository.
+09. Click Create repository.
+10. At the bottom of the resulting Quick Setup page, under "Import code from an old repository", you can choose to import a project to your new
+    repository. To do so, click Import code.
+
 # Delete GitHub repository
 1. Click on your projile picture at the top right corner of the GitHub interface and click on "Your repositories".
 2. On your repository list, select the GitHub repository that you want to delete.
@@ -20,3 +42,4 @@ Either about some commands or how to use the platform interface in the Github.
 5. Click Add NAME to REPOSITORY.
 6. The user will receive an email inviting them to the repository. Once they accept your invitation, they will have collaborator access to your
    repository.
+   
