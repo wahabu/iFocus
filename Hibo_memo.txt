@@ -1,0 +1,2 @@
+This is a memo for any important notes about the Git and what I have learned about this platform.
+Either about some commands or how to use the platform interface in the Github.
